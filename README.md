@@ -5,7 +5,7 @@ Pode ser que não encontre muito conteudo pois a maior parte dos commits acaba f
  
   <img src="https://renderapi.s3.amazonaws.com/81Vb0C4JF.png" alt="avatar" height="150em" style="border-radius:50px;" class="h-full w-full object-center object-cover">
   <a href="https://github.com/8123-molina">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=8123-molina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br></br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=8123-molina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8123-molina&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
