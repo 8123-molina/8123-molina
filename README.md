@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
+  <img src="https://renderapi.s3.amazonaws.com/81Vb0C4JF.png" alt="avatar" class="h-full w-full object-center object-cover">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
   
