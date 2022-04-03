@@ -32,15 +32,10 @@ Pode ser que não encontre muito conteudo pois a maior parte dos commits acaba f
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:molinaprojetos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- ###
-  ##
   ![Snake animation](https://github.com/8123-molina/8123-molina/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<!--
+
 **8123-molina/8123-molina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
