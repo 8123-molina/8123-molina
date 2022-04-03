@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8123-molina&layout=compact&langs_count=7&theme=dracula"/>
 
  </div>
-##
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -17,13 +17,14 @@
   <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
 </div>
-##
+
 <div> 
 
   <a href = "mailto:molinaprojetos@gmail.com"></a>
     <br></br>
   <a href="https://www.linkedin.com/in/dhyonemolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ ###
+  ##
   ![Snake animation](https://github.com/8123-molina/8123-molina/blob/output/github-contribution-grid-snake.svg)
  
 </div>
