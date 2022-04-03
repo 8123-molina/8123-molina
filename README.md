@@ -1,5 +1,5 @@
 ### Olá, muito prazer eu sou Dhyone 👋 
-Pode ser que não encontre muito conteudo pois a maior parte dos commits acaba ficando no repositorio da empresa.
+Pode ser que não encontre muito conteudo pois a maior parte dos commits acaba ficando no repositorio da empresa.<a href="https://www.flaticon.com/br/icones-gratis/toque" title="toque ícones">Toque ícones criados por Freepik - Flaticon</a>
 ##
 <div align="center">
   <img src="https://renderapi.s3.amazonaws.com/81Vb0C4JF.png" alt="avatar" height="180em" style="border-radius:50px;" class="h-full w-full object-center object-cover">
