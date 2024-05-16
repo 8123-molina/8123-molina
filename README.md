@@ -13,6 +13,7 @@ Porém é possível verificar a regular adição de commits a linha do tempo.
  </div>
 
   ##
+  ### Algumas das plataformas que possuo conhecimento.
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-NodeJs" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-Typescript" height="60" width="70" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg">
