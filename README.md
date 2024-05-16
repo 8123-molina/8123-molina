@@ -1,5 +1,6 @@
 ### Olá, muito prazer eu sou Dhyone 👋 
-Pode ser que não encontre muito conteúdo pois a maior parte dos commits acaba ficando no repositório da empresa junto com email.
+Pode ser que não encontre muito conteúdo, pois a maior parte dos commits acaba ficando no repositório da empresa junto com email.
+Porém é possível verificar a regular adição de commits a linha do tempo.
 ##
 <div align="center" dir="auto" >
  
@@ -22,6 +23,11 @@ Pode ser que não encontre muito conteúdo pois a maior parte dos commits acaba 
   <img align="center" alt="Rafa-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Apache" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Rafa-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Rafa-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Rafa-PrismaORM" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg">
+  <img align="center" alt="Rafa-Ubuntu" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg">
   
 
 </div>
